@@ -1,0 +1,2 @@
+Mazda Cx30,10,29990.0,false,SUV
+Hyundai Kona,15,32990.0,false,SUV

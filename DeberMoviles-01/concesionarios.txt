@@ -1,0 +1,2 @@
+StarMotors,Galo Plaza y Mariana de Jesús,10,false,250000.0
+Ecuawagen,Granados y Eloy Alfaro,5,false,800000.0
